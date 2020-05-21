@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project Review - "Was that it?""
-date:       2020-05-21 22:04:36 +0000
+date:       2020-05-21 18:04:37 -0400
 permalink:  sinatra_project_review_-_was_that_it
 ---
 
